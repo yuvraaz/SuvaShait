@@ -1,0 +1,1 @@
+This app is astrological app used for viewing dates based on particular events.
